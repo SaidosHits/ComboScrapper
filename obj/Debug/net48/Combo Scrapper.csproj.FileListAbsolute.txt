@@ -1,0 +1,12 @@
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\bin\Debug\net48\Combo Scrapper.exe.config
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\bin\Debug\net48\Combo Scrapper.exe
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\bin\Debug\net48\Combo Scrapper.pdb
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net48\Combo Scrapper.csproj.AssemblyReference.cache
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net48\Combo Scrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net48\Combo Scrapper.AssemblyInfoInputs.cache
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net48\Combo Scrapper.AssemblyInfo.cs
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net48\Combo Scrapper.csproj.CoreCompileInputs.cache
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net48\Combo Scrapper.exe
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net48\Combo Scrapper.pdb
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net48\Combo Sc.197BF3D4.Up2Date

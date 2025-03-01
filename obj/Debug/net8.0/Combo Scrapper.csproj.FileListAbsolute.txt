@@ -1,0 +1,4 @@
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net8.0\Combo Scrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net8.0\Combo Scrapper.AssemblyInfoInputs.cache
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net8.0\Combo Scrapper.AssemblyInfo.cs
+C:\Users\Saidos\source\repos\Combo Scrapper\Combo Scrapper\obj\Debug\net8.0\Combo Scrapper.csproj.CoreCompileInputs.cache
